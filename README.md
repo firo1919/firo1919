@@ -3,6 +3,13 @@
 👋 Hi there! I'm Firomsa Assefa, a third-year Computer Science and Engineering student at Adama Science and Technology University in Ethiopia. 🌱 I'm passionate about Linux , Java and open-source projects, and I'm constantly learning and improving my skills. My goal is to become a proficient Java developer. 💻 I love collaborating with like-minded individuals and contributing to meaningful projects. Feel free to check out my repositories and connect with me!.
 Let's build something awesome together!
 
+### Social media: 📡    
+Join me on
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/circa1919)
+[![Telegram Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firomsa-assefa/)
+
+
 ---  
 
 ### 🧰 Languages and Tools
@@ -18,4 +25,10 @@ Let's build something awesome together!
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+<img align="left" alt="Maven" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Maven" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+<img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" />
+          
+          
+          
 
