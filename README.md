@@ -1,6 +1,6 @@
 # Firomsa Assefa
 
-👋 Hi there! I'm Firomsa Assefa, a Computer Science and Engineering student at Adama Science and Technology University in Ethiopia. 🌱 I'm passionate about Linux , Java and open-source projects, and I'm constantly learning and improving my skills. My goal is to become a proficient Java developer. 💻 I love collaborating with like-minded individuals and contributing to meaningful projects. Feel free to check out my repositories and connect with me!.
+👋 Hi there! I'm Firomsa Assefa, a Computer Science and Engineering student at Adama Science and Technology University in Ethiopia. I love collaborating with like-minded individuals and contributing to meaningful projects. Feel free to check out my repositories and connect with me!.
 Let's build something awesome together!
 
 ### Social media: 📡    
